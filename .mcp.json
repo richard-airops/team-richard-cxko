@@ -8,6 +8,9 @@
                 "."
             ],
             "description": "File system access for reading and writing documents"
+        },
+        "airops": {
+            "url": "https://app.airops.com/mcp"
         }
     }
 }
